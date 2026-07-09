@@ -185,7 +185,7 @@ Historical data (2017–2025) is **locked** to empirical, source-verified values
 | **Minimum** | 5% (0.05) | ~1.2 hrs/day. 2–3 cars served. Failed location. |
 | **Historical Baseline** | 9% (0.09) | ~2.1 hrs/day. ~4–5 cars/day at ~25–30 min per session. |
 | **Maximum** | 40% (0.40) | ~9.6 hrs/day. ~19–20 cars/day. A premium Autobahn hub at near-full capacity. |
-| **Step Size** | 0.01 (1%) | Critical granularity — 1% on a 150 kW charger ≈ 2,190 kWh/year × €0.50 ≈ **~€1,100 additional revenue per plug per year**. |
+| **Step Size** | 0.01 (1%) | Critical granularity — 1% on a 150 kW charger ≈ 13,140 kWh/year × €0.50 ≈ **~€6,570 additional revenue per plug per year**. |
 
 **Why DC caps at ~40%:** Even the best highway hubs face unavoidable friction — bay maneuvering (2–5 min), payment authorization (1–3 min), peak-hour slot gaps, and near-zero nighttime demand. 40% is the aspirational ceiling for a world-class CPO location.
 
@@ -279,7 +279,7 @@ All data is publicly available. Full documentation with access dates and URLs is
 
 - Germany's EV fleet is on a trajectory toward **15 million vehicles by 2030** — a ~10× demand increase from ~1.5M in 2023
 - At current deployment rates, the public charging network will face **structural undersupply by 2027–2028**, with the gap widening sharply thereafter
-- **DC/HPC is the critical margin lever** — each 1% improvement in utilization translates to ~€1,100 in additional annual revenue per plug
+- **DC/HPC is the critical margin lever** — eeach 1% improvement in utilization translates to ~€6,570 in additional annual revenue per plug at €0.50/kWh
 - As adoption shifts to urban apartment dwellers, the share of demand flowing to public CPOs could rise from 30% to 60–80%, dramatically expanding the addressable market
 - Germany risks breaching the **EU AFIR 1.3 kW/BEV threshold by 2027** without accelerated infrastructure investment — a first-mover opportunity for proactive CPOs
 
